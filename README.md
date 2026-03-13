@@ -25,6 +25,16 @@ Topics covered:
 - Buffer overflow
 - XSS attacks
 
+## Build Week 3 – Blue Team & Security Monitoring
+
+Projects focused on defensive security activities and security analysis.
+
+Topics covered:
+- Malware analysis
+- Network security monitoring
+- Incident response
+- System hardening
+
 ## Structure
 
 Each build week contains folders with the related reports for each task.
